@@ -1,6 +1,6 @@
 let i = 0;
 do {
-  console.log("I am happy!");
+  console.log("I am a 'Do While' Loop!");
   i++;
 } while (i < 10);
 
